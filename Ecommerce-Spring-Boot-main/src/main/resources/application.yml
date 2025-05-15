@@ -3,7 +3,7 @@ spring:
                   name: ecommerce
       data:
         mongodb:
-          uri: mongodb+srv://archit:VfofCztXw3WwHhge@cluster0.rgjds5p.mongodb.net/model?retryWrites=true&w=majority&appName=Cluster0
+          uri: 
           ssl:
             enabled: true
           database : model
@@ -18,7 +18,7 @@ spring:
       mail:
         host: smtp.gmail.com
         port: 587
-        username: architrssb@gmail.com
+        username: 
         password: grxu avcq gswx ljsy
         properties:
           mail:
